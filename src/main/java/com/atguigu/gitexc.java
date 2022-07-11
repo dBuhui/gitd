@@ -7,5 +7,7 @@ package com.atguigu;
 public class gitexc {
     public static void main(String[] args) {
         System.out.println("hello,guigu");
+        System.out.println("hello,guigu2");
+
     }
 }

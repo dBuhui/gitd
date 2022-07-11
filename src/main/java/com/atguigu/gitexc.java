@@ -12,6 +12,7 @@ public class gitexc {
         System.out.println("hello,guigu4");
         System.out.println("amset");
         System.out.println("hello,guigu5");
+        System.out.println("push,guigu5");
 
 
     }
